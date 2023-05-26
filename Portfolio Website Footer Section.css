@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container2 {
+    background-color: #001c32;
+}
+
+.icon {
+    color: #9aa5b1;
+}
+
+.jenny-paragraph {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.jenny-head {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.jenny-image {
+    height: 80px;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+.bg-container {
+    background-color: #0d2436;
+
+}
